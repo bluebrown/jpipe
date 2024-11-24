@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.2](https://github.com/bluebrown/go-template-cli/compare/v0.3.1...v0.3.2) (2024-11-24)
+
+
+### Features
+
+* add build info flag ([74c7a03](https://github.com/bluebrown/go-template-cli/commit/74c7a03440846c93f7a859a8d7a1dc3c5f4249ca))
+* **deps:** merge with textfuncs ([0b03225](https://github.com/bluebrown/go-template-cli/commit/0b03225988f159aa4245a1fa8e062e0026c6054c))
+
 ## [0.3.1](https://github.com/bluebrown/go-template-cli/compare/v0.3.0...v0.3.1) (2024-05-07)
 
 
